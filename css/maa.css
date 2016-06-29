@@ -1,0 +1,20 @@
+.navbar-default .navbar-brand {
+    font-family: "Finger Paint","Helvetica Neue",Helvetica,Arial,cursive;
+}
+
+.bg-light-gray2 {
+    background-color: #E2E2E2;
+}
+
+footer{
+  background-color: #222;
+  color: #fff;
+}
+
+footer ul.social-buttons li a {
+    background-color: #f7f7f7;
+}
+
+footer ul.social-buttons li a i{
+    color: #222;
+}
